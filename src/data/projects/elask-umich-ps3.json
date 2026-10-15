@@ -1,0 +1,9 @@
+{
+  "assignment": "Problem Set 3",
+  "studentName": "Emily Lask",
+  "projectTitle": "Roller Skate Habit Tracker",
+  "description": "Build a skating habit with private practice logs, skill difficulty reports, and a wishlist for your next pair of skates. Sign in with Google to track your own progress.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://si212-assignments-elask.onrender.com",
+  "tags": ["React", "Node.js", "Postgres"]
+}
