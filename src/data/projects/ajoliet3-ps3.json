@@ -1,10 +1,8 @@
 {
   "assignment": "Problem Set 3",
-  "studentName": "Asha",
+  "studentName": "Asha Joliet",
   "projectTitle": "Interview Prep Tracker",
-  "description": "A web app for organizing upcoming interviews and practicing interview questions. It recommends questions based on interview details and practice history.",
-  "projectType": ["Web App"],
-  "projectUrl": "https://si212-assignments-ajoliet.onrender.com",
-  "githubUrl": "https://github.com/ajoliet3/si212-assignments-ajoliet",
-  "tags": ["React", "Express", "SQLite", "Render"]
+  "description": "A web app for organizing upcoming interviews and practicing interview questions with personalized recommendations.",
+  "projectType": ["Web App", "API/Backend"],
+  "projectUrl": "https://si212-assignments-ajoliet-1.onrender.com"
 }
