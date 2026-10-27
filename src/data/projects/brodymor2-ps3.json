@@ -1,0 +1,9 @@
+{
+  "assignment": "Problem Set 3",
+  "studentName": "Brody",
+  "projectTitle": "Pulse Plan",
+  "description": "A workout tracker for planning activities, recording completions, and following your progress. Sign in with GitHub to keep your workout data private, with a confetti celebration when you add an activity or plan a workout.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://pulse-plan.onrender.com",
+  "tags": ["React", "Express", "Turso", "GitHub OAuth"]
+}
