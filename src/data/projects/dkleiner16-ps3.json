@@ -1,0 +1,10 @@
+{
+  "assignment": "Problem Set 3",
+  "studentName": "dkleiner16",
+  "projectTitle": "Daily Shoot",
+  "description": "A basketball trivia game where players answer seven timed questions and earn more points for deeper answers.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://si212-assignments-dkleiner.vercel.app",
+  "githubUrl": "https://github.com/dkleiner16/si212-assignments-dkleiner",
+  "tags": ["React", "Express", "Postgres", "Google OAuth"]
+}
